@@ -1,7 +1,7 @@
 # Dockerizing a Simple Web Application
 
 **Description:**  
-Start with a basic project by containerizing a simple web application (e.g., a Python Flask app or a Node.js app). This project will help you understand the basic concepts of Docker, including creating Dockerfile, building Docker images, and running containers.
+Start with a basic project by containerizing a simple web application (e.g., a React based app or a Node.js app). This project will help you understand the basic concepts of Docker, including creating Dockerfile, building Docker images, and running containers.
 
 ### Skills Covered:
 - Dockerfile
