@@ -181,4 +181,8 @@ docker network connect <network_name> <container_name>
 
 ## 10. Resources
 - [Docker Documentation](https://docs.docker.com/)
+<<<<<<< HEAD
 - [Docker Hub](https://hub.docker.com/)
+=======
+- [Docker Hub](https://hub.docker.com/)
+>>>>>>> origin/master
